@@ -1,0 +1,13 @@
+# data
+data/
+data_processed/
+
+# macOS
+.DS_Store
+
+# jupyter
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
